@@ -1,0 +1,120 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Utkarsh Kaushik. I'm currently primarily working with the front-end framework React and enjoy styling components using Sass. I also enjoy mastering my core Javascript programming skills and am working weekly on upping my API data handling skills and utilizing all modern JS features. Below are three of my most recent and comprehensive web development projects. For more projects please feel free to see my Github profile. Thanks for visiting 🙏 ",
+    "section_name": {
+      "about": "About me",
+      "projects": "Latest Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "API Link Shortener",
+      "startDate": "Oct 2021",
+      "description": "A responsive website built with React hooks, styled with Sass. It has a mobile menu that functions using the useState & useEffect hooks. * I am currently developing the functionality to output API data from the user's input in a link card below using the axios libary. I also need to complete user input server side validation functionality.",
+      "images": [
+        "https://user-images.githubusercontent.com/83171355/140057176-be27a903-789d-42e4-9bc2-a652c187712c.png",
+        "images/portfolio/shortly/p2.jpg"
+      ],
+      "url": "https://shortly-react-sass.netlify.app/",
+      "github": "https://github.com/u-kaushik/shortly",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-sass-original",
+          "name": "Sass"
+        }
+      ]
+    },
+    {
+      "title": "Fylo Email Validation",
+      "startDate": "Oct 2021",
+      "description": "A responsive landing page built using Sass with React functional components. This was the first time I used sass features of variables and nesting. The project has email client side validation.",
+      "images": [
+        "https://user-images.githubusercontent.com/83171355/140056245-87d2ea39-b0c7-4948-af52-af660c4b1444.png",
+        "images/portfolio/fylo/p2.jpg"
+      ],
+      "url": "https://fylo-dark-sass.netlify.app/",
+      "github": "https://github.com/u-kaushik/fylo",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-sass-original",
+          "name": "Sass"
+        }
+      ]
+    },
+    {
+      "title": "Crypto Coin Checker",
+      "startDate": "Oct 2021",
+      "description": "A responsive React app styled in Sass, pulling data from 'coingecko's API via Axios based on user input. It also uses conditional rendering to display the daily percentage change value in either green or red based on either an increase or decrease.",
+      "images": [
+        "images/portfolio/crypto/p1.jpg",
+        "images/portfolio/crypto/p2.jpg"
+      ],
+      "url": "https://crypto-coin-checker.netlify.app/",
+      "github": "https://github.com/u-kaushik/crypto-coin-checker",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-sass-original",
+          "name": "Sass"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Self Directed Learning",
+      "title": "Front-End Developer",
+      "years": "04.2021 - present",
+      "mainTech": ["ReactJS", "Javascript", "CSS", "HTML"],
+      "technologies": [
+        "API data",
+        "React hooks",
+        "Styled components",
+        "Sass",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "Yarn",
+        "NPM",
+        "HTML",
+        "Figma"
+      ]
+    },
+    {
+      "company": "Independent Contracting & Self Directed Ventures",
+      "title": "E-commerce consultant",
+      "years": "11.2016 - 04.2021",
+      "mainTech": ["Shopify", "Amazon"],
+      "technologies": [
+        "CPC",
+        "CPL",
+        "CRO",
+        "Copywriting",
+        "Preselling",
+        "Pricing Strategy",
+        "Email Marketing",
+        "Facebook Advertising",
+        "Referral Schemes",
+        "Webinar Sales",
+        "Digital Products",
+        "Physical Products",
+        "Social Media Content Marketing",
+        "Influencer Marketing"
+      ]
+    }
+  ]
+}
