@@ -1,8 +1,4 @@
 import React, { Component } from "react";
-import { Icon } from "@iconify/react";
-import reactIcon from "@iconify/icons-logos/react";
-import javascriptIcon from "@iconify/icons-logos/javascript";
-import cssIcon from "@iconify/icons-logos/css-3";
 
 class About extends Component {
   render() {
@@ -29,18 +25,6 @@ class About extends Component {
                     height="250px"
                     src={profilepic}
                     alt="Avatar placeholder"
-                  />
-                  <Icon
-                    icon={reactIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={javascriptIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={cssIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
               </div>
